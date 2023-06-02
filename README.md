@@ -1,34 +1,22 @@
-# JS-Web-App
-## Project Name:
-#### Developers: 
-#### Date and Course:
-<hr>
+# Software Engineering GPA Calculator - University of Kelaniya
 
-### Problem Or Situation to Improve
->Provide some background context / research / description of the problem that exists that you are trying to solve.  
-Audience: Who would use your product and where? 
-If you are re-building an app that already exists, then explain what the issue is with the current app that you want to improve.
+Simple GPA Calculator and analysis tools developed for SE 2015/16 Batch.
 
->> 
+LINK : https://nuwan94.github.io/se-gpa-calculator/
 
+![Screenshot](https://i.imgur.com/neS6R6f.png)
 
+## Frameworks used
 
-#### Short Product Description 
->Imagine that you met a tech investor at your high school graduation who asked about your project. How would you pitch your product? 
-(You can describe your ‘dream’ solution even if your actual product did not get fully built during the semester)
+- [Angularjs](https://angularjs.org)
+- [MaterializeCSS](https://materializecss.com)
 
->>
+## How to use
 
-#### Sources
->List the APIs used in your project and the associated tutorials / resources for learning about them. 
+1. **Fork** the repository.
+2. Modify the [js/course.js](js/course.js) file with your course details.
+3. Push the commits to the `gh-pages` branch.
 
->Use the following format to insert links: `[Link text Here](https://link-url-here.org)`
+## Contribute
 
->>
-
-
-
-
-
-
-
+Found any bug 🐞? Don't hesitate to open a pull request. 😃
